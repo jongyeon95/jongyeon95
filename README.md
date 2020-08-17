@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 I’m currently learning Spring boot
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongyeon95)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongyeon95)](https://hits.seeyoufarm.com)
